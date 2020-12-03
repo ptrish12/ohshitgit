@@ -22,4 +22,4 @@ git commit -m ".gitignore fix"
 git push origin BRANCH
 ```
 
-I'll be honest, I have no idea why IDEs seem to add files at random. But it hasn't stopped me from doing `git commit -a` on the regular and committing a bunch of cache files nobody needs to see! 
+I'll be honest, I have no idea why IDEs seem to add files at random. But it hasn't stopped me from doing `git add .` and `git commit -a` on the regular and committing a bunch of cache files nobody needs to see! 
