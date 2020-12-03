@@ -262,6 +262,10 @@ module.exports = function() {
             {
               "name": "Artem Vorotnikov",
               "link": "https://github.com/vorot93",
+            },
+            {
+               "name": "Patricia Stichnoth",
+               "link": "https://github.com/ptrish12",
             }
         ]
     };
